@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+############################
+# stuff related to the python parts which might be moved to separate repo #
+##############################
+
+__pycache__
+
+# the virtual environment
+/api/vconsq
